@@ -1,0 +1,3 @@
+[submodule "microservices/algashop-ordering"]
+	path = microservices/algashop-ordering
+	url = git@github.com:calebematos/algashop-ordering.git
